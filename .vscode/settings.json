@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "haskell.haskell",
+    "editor.formatOnSave": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    }
+}
